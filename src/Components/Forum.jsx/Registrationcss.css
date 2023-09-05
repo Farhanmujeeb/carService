@@ -59,24 +59,22 @@
 @media only screen and (max-width: 500px) {
   .popinner {
     z-index: 10;
-    max-width: 100%; 
+    max-width: 100%;
   }
 
   .regh {
-    font-size: 20px; 
+    font-size: 20px;
   }
 
   .reginp {
-    padding: 8px; 
+    padding: 8px;
   }
 
   .regbtn {
-    padding: 8px; 
+    padding: 8px;
   }
 
   .regspan {
-    font-size: 14px; 
+    font-size: 14px;
   }
-
-  
 }
