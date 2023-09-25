@@ -9,7 +9,7 @@ export const Cart = () => {
   const { cartItems, getTotalCartAmount } = useContext(ShopContext); // Use the custom hook
   const totalAmount = getTotalCartAmount(); // Implement this function
   const [cbtn, rbtn] = useState(false);
-
+    
   return (
     <div className="cart">
       <div>
