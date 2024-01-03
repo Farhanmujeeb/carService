@@ -20,7 +20,7 @@ export const Cart = () => {
               // Assuming this logic matches your cartItems structure
               return <CartItem key={product.id} data={product} />;
             }
-            return null;
+            return null;   
           })}
         </div>
       </div>
